@@ -2,9 +2,9 @@
 ## description: 
 A combinational 4-bit Arithmetic Logic Unit written in Verilog.
 
-##interface
+## interface
 
-###inputs
+### inputs
 
 -`A[3:0]` - first unsigned operand
 -`B[3:0]` - second unsigned operand
